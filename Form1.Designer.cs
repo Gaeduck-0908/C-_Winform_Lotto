@@ -152,6 +152,7 @@
             this.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(41, 105, 41, 35);
+            this.Resizable = false;
             this.Style = MetroFramework.MetroColorStyle.Lime;
             this.Text = "SImple Lotto";
             this.TextAlign = MetroFramework.Forms.MetroFormTextAlign.Center;
